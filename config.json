@@ -1,0 +1,13 @@
+{
+  "servers": [
+    "http://localhost:5020",
+    "http://172.16.96.72:5030",
+    "http://172.16.96.70:5030"
+  ],
+  "filename": "Iris.csv",
+  "params":{
+  	"eta": 0.1,
+  	"hidden_layers": [1,1],
+  	"seed_weight": 1
+  }
+}
